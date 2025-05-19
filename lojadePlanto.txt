@@ -35,6 +35,20 @@ Cadastro de livros de uma livraria
 - registro de vendas
 
 ---
+
+
+
+
+
+requistos não funcionais - Muito importante-
+- Como o software vai fazer?
+
+- Usuabilidade - fácil de entender ?
+- 
+- é facil o cliente chegar em um ponto expecifico ( onde fica cada seção, singup, login)
+- é seguro? cliente deve ter confiança no site 
+- é eficiente, é rapido?
+- garantir uma boa experiencia - imp
 => desempenho 
 ele precisa ser rapido, se não pode gerar desistencia do cliente
 max 2 s 
@@ -71,20 +85,6 @@ utilizando cores para criar uma interface intuitiva
 
 
 
-requistos não funcionais - Muito importante-
-- Como o software vai fazer?
-
-- Usuabilidade - fácil de entender ?
-- 
-- é facil o cliente chegar em um ponto expecifico ( onde fica cada seção, singup, login)
-- é seguro? cliente deve ter confiança no site 
-- é eficiente, é rapido?
-- garantir uma boa experiencia - imp
-
-
-
-
-
 
 
 
@@ -108,6 +108,8 @@ Um site focado em venda de plantas, ferramenta, vasos e dar dicas de como cuidar
 
 
 requistos funcionais 
+- Historico de compras
+- historico de buscas
 - Cadastro ( nome, email, celular, endereço, senha)
 - menu hamburguer para celular 
 - suporte ao cliente ( reporte de bugs, mrlhorias, rembolso, duvidas gerais  )
@@ -122,22 +124,18 @@ requistos funcionais
 - 
 
 
-requitos n fun
+requitos não funcionais 
 
-- Historico de compras
-- historico de buscas
 - segurança 
 - desempenho rapido 
 - suporte pra computador, celular e tablet
 - autenticação 
-- 
 - disponibilidade
-- 
 
 
 
 
-requistos nao
+
 
 
 
