@@ -36,4 +36,19 @@ usar Letras não numeros para começar variaveis
 *************************
 
  var nome, sobrenome;
+
+
+
+
+
+ Var let e const
+
+
+
+let pode ser nomeado apenas uma vez, e dentro de escopos ela pode ser mudado, onde ela vai valer apenas ali.
+
+var não tem diferença, pode ser declarado toda vez.
+coringa.
+
+constante não muda nem a pau, não obedece mudanças em outro lugar.
  
