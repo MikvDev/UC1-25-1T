@@ -78,3 +78,21 @@ let passo5 = passo4 - (3 * numeroInicial)
 
 
 console.log(passo5)
+
+
+
+
+// console.log(passo5)
+
+// var 
+const nota1 = 6
+const nota2 = 5 
+const nota3 = 8
+
+
+//passos 
+
+const calculo = nota1 + nota2 + nota3 
+const media = calculo / 3
+
+console.log(media)
