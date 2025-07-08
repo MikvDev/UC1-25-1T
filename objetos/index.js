@@ -9,6 +9,7 @@ const professor =
     }
     
 }
+
 console.log('------------------------------------');
 professor.contarPiada()
 console.log('------------------------------------');
